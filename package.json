@@ -1,6 +1,6 @@
 {
   "name": "create-react-fluentui8",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool to create react with Fluent UI 8",
   "main": "index.js",
   "scripts": {
